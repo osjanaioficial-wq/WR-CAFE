@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="White Rabbit Coffee">
+  <rect width="512" height="512" rx="128" fill="#0b0b0f"/>
+  <circle cx="256" cy="248" r="140" fill="#1c1c26" stroke="#c79d5b" stroke-width="16"/>
+  <path d="M188 188c8-36 36-64 68-76" stroke="#c79d5b" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M324 188c-8-36-36-64-68-76" stroke="#c79d5b" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <path d="M196 312c24 22 56 34 92 34s68-12 92-34" stroke="#c79d5b" stroke-width="12" fill="none" stroke-linecap="round"/>
+  <circle cx="216" cy="246" r="10" fill="#c79d5b"/>
+  <circle cx="296" cy="246" r="10" fill="#c79d5b"/>
+</svg>
